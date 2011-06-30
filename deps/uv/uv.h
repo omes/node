@@ -30,6 +30,8 @@ extern "C" {
 
 #define CARES_STATICLIB 1
 
+#define NANOSEC 1000000000
+
 #include <stdint.h> /* int64_t */
 #include <sys/types.h> /* size_t */
 
